@@ -29,7 +29,7 @@ export default function About() {
         
         {/* Third Paragraph */}
         <p className="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-          Previously Machine Learning Engineer at{' '}
+          Previously worked as a Machine Learning Engineer at{' '}
           <a 
             href="https://www.qnb.com.tr/en/" 
             target="_blank" 
@@ -38,7 +38,7 @@ export default function About() {
           >
             QNB
           </a>{' '}
-          and Financial Engineer at{' '}
+          and a Financial Engineer at{' '}
           <a 
             href="https://www.riskoptima.io/index.html" 
             target="_blank" 
