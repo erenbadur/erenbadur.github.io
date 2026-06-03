@@ -17,7 +17,7 @@ export default function App() {
           </Routes>
         </main>
         <footer className="py-6 text-center text-sm text-gray-500 dark:text-gray-400">
-          © {new Date().getFullYear()} My Portfolio. Built with React & Vite.
+          © {new Date().getFullYear()} Eren Badur
         </footer>
       </div>
     </Router>

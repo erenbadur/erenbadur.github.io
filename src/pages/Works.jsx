@@ -8,10 +8,10 @@ export default function Works() {
         <div className="p-6 border border-gray-200 dark:border-slate-800 rounded-lg hover:shadow-md transition-shadow">
           <h2 className="text-xl font-semibold mb-2">Blockchain</h2>
           <p className="text-gray-600 dark:text-gray-400 mb-4">
-            Built a working Blockchain from scratch with C++
+            Built a simple, functioning Blockchain from scratch with C++
           </p>
           <a 
-            href="https://github.com/erenbadur/OnlineStore.git" 
+            href="https://github.com/erenbadur/blockchain.git" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 font-medium hover:underline transition-colors"

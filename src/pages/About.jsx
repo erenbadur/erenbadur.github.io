@@ -19,7 +19,7 @@ export default function About() {
         
         {/* First Paragraph */}
         <p className="text-lg leading-relaxed text-gray-600 dark:text-gray-300 mb-4">
-          Ranked 1st in High School Placement Exam with full marks (500/500) in 2016. Studied in Robert College. Completed BSc in Computer Science and Engineering at Sabancı University.
+          Ranked 1st in the 2016 Turkish High School Placement Exam with full marks (500/500). Studied in Robert College. Completed BSc in Computer Science and Engineering at Sabancı University.
         </p>
 
         {/* Second Paragraph */}
