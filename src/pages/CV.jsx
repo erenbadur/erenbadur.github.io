@@ -13,7 +13,7 @@ export default function CV() {
           
           {/* View Button (Primary Solid) */}
           <a 
-            href="/resume.pdf" 
+            href="/Eren_Badur_CV.pdf" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-6 py-3 bg-gray-900 text-white dark:bg-gray-100 dark:text-gray-900 font-medium rounded-lg hover:opacity-90 transition-opacity"
@@ -23,7 +23,7 @@ export default function CV() {
 
           {/* Download Button (Secondary Outline) */}
           <a 
-            href="/resume.pdf" 
+            href="/Eren_Badur_CV.pdf" 
             download 
             className="inline-flex items-center justify-center px-6 py-3 border-2 border-gray-900 text-gray-900 dark:border-gray-100 dark:text-gray-100 font-medium rounded-lg hover:bg-gray-50 dark:hover:bg-slate-800 transition-colors"
           >

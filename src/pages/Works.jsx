@@ -1,7 +1,21 @@
+import gitLogo from '../assets/git_logo.png';
+
 export default function Works() {
   return (
     <section className="animate-fade-in">
-      <h1 className="text-4xl font-bold mb-6">Selected Works</h1>
+      {/* Flex container aligns heading and logo */}
+      <div className="flex items-center justify-between mb-6">
+        <h1 className="text-4xl font-bold">Selected Works</h1>
+        <a 
+          href="https://github.com/erenbadur" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="hover:opacity-80 transition-opacity"
+          aria-label="GitHub Profile"
+        >
+          <img src={gitLogo} alt="GitHub Profile" className="w-8 h-8 dark:invert" />
+        </a>
+      </div>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {/* Blockchain */}
